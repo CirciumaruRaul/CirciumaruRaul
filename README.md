@@ -9,7 +9,7 @@ I'm currently enrolled in a Master's program in Artificial Intelligence at the U
 * 🌍  I'm based in Bucharest, Romania
 * 🖥️  See my portfolio at [My portfolio](http://portfolio-sanity-4frql8dxz-circiumaruraul.vercel.app)
 * ✉️  You can contact me at [raulmarian1106@gmail.com](mailto:raulmarian1106@gmail.com)
-* 🧠  I'm learning indepth k8s
+* 🧠  I'm currently learning more on the devOps side 
 * 🤝  I'm open to collaborating on anything that sparks ideas or improves day to day life
 
 ### Skills
