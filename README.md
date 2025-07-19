@@ -4,13 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Software Engineer
 ------------------------
 
-I'm currently enrolled in a Master's program in Artificial Intelligence at the University of Bucharest and have been working full-time as a Junior Software Engineer at R Systems for over a year. My main area of interest is Backend development, with some involvement in DevOps, particularly with Docker and Kubernetes and of course Artificial Intelligence.
+I'm currently enrolled in a Master's program in Artificial Intelligence at the University of Bucharest and have been working full-time as a Junior Software Engineer at R Systems for close to 2 years. My main area of interest is Backend development, with involvement in DevOps practices, particularly with Docker and Kubernetes and of course Artificial Intelligence.
 
 * 🌍  I'm based in Bucharest, Romania
 * 🖥️  See my portfolio at [My portfolio](http://portfolio-sanity-4frql8dxz-circiumaruraul.vercel.app)
 * ✉️  You can contact me at [raulmarian1106@gmail.com](mailto:raulmarian1106@gmail.com)
 * 🧠  I'm currently learning more on the devOps side 
 * 🤝  I'm open to collaborating on anything that sparks ideas or improves day to day life
+* 👉  To have an overview of my personal projects please start here. [projects-hub](https://github.com/CirciumaruRaul/projects-hub)
 
 ### Skills
 
