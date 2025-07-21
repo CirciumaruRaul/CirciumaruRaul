@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Circiumaru Raul
 =======================================================================================================================================
 
-Junior Software Engineer
+Software Engineer
 ------------------------
 
 I'm currently enrolled in a Master's program in Artificial Intelligence at the University of Bucharest and have been working full-time as a Software Engineer at R Systems for over 2 years. My main area of interest is Backend development, with involvement in DevOps practices, particularly with Docker and Kubernetes and of course Artificial Intelligence.
