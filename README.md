@@ -11,8 +11,8 @@ I'm currently enrolled in a Master's program in Artificial Intelligence at the U
 * ✉️  You can contact me at [raulmarian1106@gmail.com](mailto:raulmarian1106@gmail.com)
 * 🧠  I'm currently learning more on the devOps side 
 * 🤝  I'm open to collaborating on anything that sparks ideas or improves day to day life
-* 👉  To have an overview of my personal projects please start here. [projects-hub](https://github.com/CirciumaruRaul/projects-hub)
-
+* 👉  To have an overview of my personal projects please start here [projects-hub](https://github.com/CirciumaruRaul/projects-hub)
+* 👀  Most interesting project that I worked so far [automated-qwirkle-score](https://github.com/CirciumaruRaul/computerVision)
 ### Skills
 
 
